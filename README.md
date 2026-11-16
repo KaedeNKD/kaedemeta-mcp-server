@@ -48,7 +48,7 @@ If your MCP host requires a local `stdio` command, run the zero-config Python br
       }
     }
   }
-}
+
 ```
 ---
 
