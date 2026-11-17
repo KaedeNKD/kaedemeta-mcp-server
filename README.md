@@ -71,4 +71,4 @@ If your MCP host requires a local `stdio` command, run the zero-config Python br
 
 ## License
 
-MIT License (Bridge Client). Core extraction infrastructure is hosted at [kaedemeta.com](https://kaedemeta.com).
+MIT License. Official MCP Server implementation for the KaedeMeta Core API ([kaedemeta.com](https://kaedemeta.com)).
