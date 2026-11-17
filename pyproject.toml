@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kaedemeta-mcp"
+version = "1.0.0"
+description = "Official MCP Server bridge for KaedeMeta Core — Lossless multimodal media & metadata extraction for X, Pixiv, and Danbooru."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["httpx>=0.27.0"]
+
+[project.scripts]
+kaedemeta-mcp = "kaedemeta_mcp:main"
