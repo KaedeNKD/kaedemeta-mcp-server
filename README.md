@@ -63,9 +63,9 @@ If your MCP host requires a local `stdio` command, run the zero-config Python br
 
 ## Example Prompts for Your AI Agent
 
-- *"Fetch the latest 24 original artworks from `[https://www.pixiv.net/users/2188539](https://www.pixiv.net/users/2188539)` and summarize the tags and publishing dates."*
-- *"Extract the uncompressed original images from `[https://x.com/gM4zFiJCWbz3G4y](https://x.com/gM4zFiJCWbz3G4y)`."*
-- *"Query Danbooru for `original 1girl solo` and give me the direct high-res file URLs."*
+- *"Fetch the latest 24 original artworks from `https://www.pixiv.net/users/12345678` and summarize the tags and publishing dates."*
+- *"Extract the uncompressed original images from `https://x.com/NASA`."*
+- *"Query Danbooru for `scenery landscape` and give me the direct high-res file URLs."*
 
 ---
 
